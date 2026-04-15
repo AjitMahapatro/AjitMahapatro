@@ -8,9 +8,9 @@ Data Science enthusiast with a strong foundation in machine learning and quantum
 
 ## 🛠️ Technical Toolkit
 
-**Languages:** Python • SQL • Java • C • C++  
-**Data Visualization:** Power BI • Tableau  
-**Machine Learning:** XGBoost • Scikit-Learn • NLP • Predictive Modeling  
+**Languages:** Python • SQL • Java • C
+**Data Visualization:** Power BI • Tableau  • MS Excel
+**Machine Learning:** XGBoost • Scikit-Learn • Predictive Modeling  
 **Web Frameworks:** FastAPI  
 **Core Skills:** EDA • Feature Engineering • Model Deployment • Data Analysis  
 
