@@ -28,30 +28,33 @@ Data Science enthusiast with a strong foundation in machine learning and quantum
 ## 📊 Featured Projects
 
 ### 1. **Quantum Job Tracker** ⭐
-- Collaborated in a team of 6 to build a backend for predicting wait times on quantum backends
-- Developed a job-tracking system to monitor quantum experiment status (Queued, Running, Completed, Failed)
+- Acted as a Core Runner for Problem Statement 915, designing a MERN-stack platform to orchestrate the lifecycle of quantum job execution directly on live IBM hardware
+- Built Node.js logic to integrate IBM Quantum Runtime APIs for automated OpenQASM job submission, background status polling, and transpilation-aware execution monitoring.
+- Streamlined live React-based data visualization analytics to capture execution metrics and job queues from the quantum processor.
 - **Impact:** Optimized researcher experiment scheduling and resource management
-- **Tech Stack:** Python, Backend Development
+- **Tech Stack:** Qiskit, React.js, Node.js, Express.js, Python
 
-### 2. **Employee Attrition Prediction** 💼
+### 2. **QuantAlpha - Stock Market Prediction** 📈
+- Led a 6-member team to architect an end-to-end Student Placement Prediction platform, utilizing XGBoost and to FastAPI deliver real-time confidence scores for 500+ student profiles.
+- Utilized Scikit-learn and Joblib to engineer the QuantAlpha engine, deploying 5+ predictive APIs to streamline financial backtesting and automated research signal generation.
+- **Tech Stack:**  Supervised Machine Learning (Regression), FastAPI, React.js, Python
+
+### 3. **Employee Attrition Prediction** 💼
 - Built a predictive classification model using Python (Scikit-Learn)
 - Performed sentiment analysis on exit surveys
 - Designed a 4-page Power BI dashboard with AI-driven Root Cause Analysis
 - **Impact:** Identified $11.85M in churn costs, projected $474K in savings through targeted retention strategies
 
-### 3. **Airline Delay Pattern Discovery** ✈️
+### 4. **Airline Delay Pattern Discovery** ✈️
 - Applied FP-Growth Algorithm (Association Rule Mining) on high-volume flight data
 - Discovered non-obvious patterns between carriers, airports, and delays
 - **Impact:** Identified high-lift associations for resource and route planning optimization
 
-### 4. **Student Placement Prediction Web App** 🎓
+### 5. **Student Placement Prediction Web App** 🎓
 - Production-ready tool using XGBoost to predict placement outcomes
 - Features confidence scoring for enhanced reliability
 - Built with FastAPI for seamless deployment
-
-### 5. **QuantAlpha - Stock Market Prediction** 📈
-- Advanced predictive model analyzing financial data and market trends
-- Specialized ML algorithms for stock performance forecasting
+- **Tech Stack:** Python, Supervised Machine Learning, FastAPI, JavaScript
 
 ---
 
