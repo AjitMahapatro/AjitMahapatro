@@ -28,7 +28,7 @@ Data Science enthusiast with a strong foundation in machine learning and quantum
 
 ## 📊 Featured Projects
 
-### 1. **Quantum Operationsl Intelligence System** ⭐
+### 1. **Quantum Operational Intelligence System** ⭐
 - Acted as a Core Runner for Problem Statement 915, designing a MERN-stack platform to orchestrate the lifecycle of quantum job execution directly on live IBM hardware
 - Built Node.js logic to integrate IBM Quantum Runtime APIs for automated OpenQASM job submission, background status polling, and transpilation-aware execution monitoring.
 - Streamlined live React-based data visualization analytics to capture execution metrics and job queues from the quantum processor.
