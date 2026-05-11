@@ -9,9 +9,10 @@ Data Science enthusiast with a strong foundation in machine learning and quantum
 ## 🛠️ Technical Toolkit
 
 **Languages:** Python • SQL • Java • C
+**Quantum Computing:** Qiskit, OpenQASM, IBM Quantum Runtime Platform, Quantum Circuit Design
 **Data Visualization:** Power BI • Tableau  • MS Excel
 **Machine Learning:** XGBoost • Scikit-Learn • Predictive Modeling  
-**Web Frameworks:** FastAPI  
+**Web Frameworks:** FastAPI, React.js, Express.js
 **Core Skills:** EDA • Feature Engineering • Model Deployment • Data Analysis  
 
 ---
