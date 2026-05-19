@@ -22,7 +22,7 @@ Data Science enthusiast with a strong foundation in machine learning and quantum
 - 🥈 **2nd Prize** – AP Amravati Quantum Valley Hackathon (Quantum Job Tracker)
 - 🥈 **2nd Prize** – Inter-Branch Technical Presentation Competition (34 competing campuses)
 - 🥈 **2nd Prize** – All-Branches Online JAM Competition
-- 🏅 **10th Prize** – Inter-College SQL Query Quest
+- 🏅 **10th Prize (3rd Position)** – Inter-College SQL Query Quest
 
 ---
 
