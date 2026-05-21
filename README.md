@@ -108,7 +108,7 @@ Led a 7-member team in developing a machine learning-based financial analytics p
 **Skills:** Financial Analytics, Machine Learning, FastAPI, Data Preprocessing, Portfolio Analytics, Python
 
 
-### 5. Quantum Operational Intelligence System (QOPS) ⚛️
+### 5. Quantum Operational Intelligence System (QOIS) ⚛️
 
 Collaborated in a 6-member team project during the AP Amaravati Quantum Valley Hackathon to develop a monitoring and analytics platform for IBM Quantum job execution workflows.
 
