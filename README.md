@@ -36,8 +36,8 @@ Data Science enthusiast with a strong foundation in machine learning and quantum
 - **Tech Stack:** Qiskit, React.js, Node.js, Express.js, Python
 
 ### 2. **QuantAlpha - Stock Market Prediction** 📈
-- Led a 6-member team to architect an end-to-end Student Placement Prediction platform, utilizing XGBoost and to FastAPI deliver real-time confidence scores for 500+ student profiles.
-- Utilized Scikit-learn and Joblib to engineer the QuantAlpha engine, deploying 5+ predictive APIs to streamline financial backtesting and automated research signal generation.
+- Led a 6-member team to architect an end-to-end Stock market analytics platform, utilizing XGBoost and FastAPI
+- Utilized and Joblib to engineer the QuantAlpha engine, deploying 5+ predictive APIs to streamline financial backtesting and automated research signal generation.
 - **Tech Stack:**  Supervised Machine Learning (Regression), FastAPI, React.js, Python
 
 ### 3. **Employee Attrition Prediction** 💼
