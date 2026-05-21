@@ -7,11 +7,11 @@ Aspiring Data Analyst and Data Science graduate passionate about transforming ra
 
 ## 🛠️ Technical Skills
 
-**Languages:** Python • SQL • Java • C  
-**Data Analysis & Visualization:** Power BI • Tableau • MS Excel • Pandas • NumPy  
-**Machine Learning:** Scikit-Learn • XGBoost • Supervised Learning • Model Evaluation  
-**Core Competencies:** Exploratory Data Analysis (EDA) • Feature Engineering • Predictive Modeling • Statistical Analysis • Data Visualization • Business Intelligence  
-**Frameworks & Tools:** FastAPI • React.js • Express.js • Git
+**Programming & Databases:** Python • SQL • Java • C  
+**Data Analysis & Visualization:** Power BI • Tableau • MS Excel • Pandas • NumPy • Matplotlib
+**Machine Learning:** Scikit-Learn • XGBoost • Supervised Learning • Model Evaluation • Predictive Modeling 
+**Core Analytics Skills:** Exploratory Data Analysis (EDA) • Feature Engineering • Data Visualization • Business Intelligence  
+**Frameworks & Tools:** FastAPI • Jupyter Notebook
 
 ---
 
