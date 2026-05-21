@@ -149,7 +149,7 @@ Collaborated in a 6-member team project during the AP Amaravati Quantum Valley H
 
 *May 2025 - June 2025 (2 months) | India*
 
-* Developed proficiency in DAX formulas and advanced Power Query data transformations
+* Developed proficiency in DAX formulas and Power Query data transformations
 * Created end-to-end analytics dashboards: logistics tracking dashboard, airline delay analysis, Adidas sales performance metrics
 * Designed interactive visualizations to drive business stakeholder insights
 
