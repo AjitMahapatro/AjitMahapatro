@@ -1,8 +1,7 @@
 # Ajit Mahapatro
 
 ## 📊 Data Analyst & Data Scientist
-
-Results-driven Data Science graduate passionate about transforming raw data into actionable business insights. Skilled in exploratory data analysis, machine learning, and business intelligence tools. Experienced in building predictive models, designing analytics dashboards, and identifying data-driven solutions to drive measurable business impact.
+Aspiring Data Analyst and Data Science graduate passionate about transforming raw data into actionable business insights. Skilled in exploratory data analysis, machine learning, and business intelligence tools. Experienced in building predictive models, designing analytics dashboards, and identifying data-driven solutions to drive measurable business impact.
 
 ---
 
@@ -42,14 +41,14 @@ Results-driven Data Science graduate passionate about transforming raw data into
 - **Skills:** EDA, Data Mining, Statistical Analysis, Python, Data Visualization
 
 ### 3. **QuantAlpha - Stock Market Prediction Model** 📈
-- Led a cross-functional team of 6 members to build an end-to-end stock market analytics platform
+- Collaborated within a 7-member team to develop an end-to-end stock market analytics platform.
 - Engineered financial features and trained XGBoost regression models for price prediction
 - Deployed 5+ predictive APIs using FastAPI for backtesting and signal generation
 - Developed React.js frontend for model performance visualization and trading insights
 - **Skills:** Supervised Learning (Regression), Feature Engineering, API Development, Python, FastAPI
 
 ### 4. **Student Placement Prediction Web Application** 🎓
-- Built a production-ready classification model using XGBoost to predict student placement outcomes
+- Collaborated within a 7-member team to develop classification model using XGBoost to predict student placement outcomes
 - Implemented confidence scoring mechanism for enhanced prediction reliability
 - Deployed application using FastAPI backend with intuitive JavaScript frontend
 - **Skills:** Predictive Modeling, XGBoost, FastAPI, Full-Stack Development, Python
