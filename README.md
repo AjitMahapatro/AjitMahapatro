@@ -32,7 +32,7 @@ Aspiring Data Analyst and Data Science graduate passionate about transforming ra
 
 ## 📊 Featured Projects
 
-### 1. **### Employee Attrition Risk & Retention Analytics 💼
+### 1. **###Employee Attrition Risk & Retention Analytics 💼
 
 Developed an end-to-end HR analytics solution combining machine learning predictions with an interactive Power BI dashboard to analyze employee attrition patterns and retention risks.
 
