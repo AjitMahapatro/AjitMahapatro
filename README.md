@@ -32,7 +32,7 @@ Aspiring Data Analyst and Data Science graduate passionate about transforming ra
 
 ## 📊 Featured Projects
 
-### 1. **###Employee Attrition Risk & Retention Analytics 💼
+### 1. **Employee Attrition Risk & Retention Analytics 💼**
 
 Developed an end-to-end HR analytics solution combining machine learning predictions with an interactive Power BI dashboard to analyze employee attrition patterns and retention risks.
 
@@ -56,7 +56,7 @@ Developed an end-to-end HR analytics solution combining machine learning predict
 **Tech Stack:** Python, SQL, Power BI, Scikit-Learn, Pandas, Random Forest
 
 
-### 2. **### Airline Delay Pattern Discovery ✈️
+### 2. **Airline Delay Pattern Discovery ✈️**
 
 Collaborated in a team-based analytics project focused on identifying patterns and operational factors contributing to airline delays.
 
