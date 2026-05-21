@@ -32,7 +32,7 @@ Aspiring Data Analyst and Data Science graduate passionate about transforming ra
 
 ## 📊 Featured Projects
 
-### 1. **Employee Attrition Risk & Retention Analytics 💼**
+### 1. Employee Attrition Risk & Retention Analytics 💼
 
 Developed an end-to-end HR analytics solution combining machine learning predictions with an interactive Power BI dashboard to analyze employee attrition patterns and retention risks.
 
@@ -56,7 +56,7 @@ Developed an end-to-end HR analytics solution combining machine learning predict
 **Tech Stack:** Python, SQL, Power BI, Scikit-Learn, Pandas, Random Forest
 
 
-### 2. **Airline Delay Pattern Discovery ✈️**
+### 2. Airline Delay Pattern Discovery ✈️
 
 Collaborated in a team-based analytics project focused on identifying patterns and operational factors contributing to airline delays.
 
@@ -87,7 +87,7 @@ Developed an interactive Power BI analytics dashboard using the Adidas US Retail
 **Skills:** Power BI, DAX, Power Query, KPI Analysis, Data Visualization, Business Intelligence
 
 
-### 4. ### QuantAlpha – Financial Analytics & Market Prediction Platform 📈
+### 4. QuantAlpha – Financial Analytics & Market Prediction Platform 📈
 
 Led a 7-member team in developing a machine learning-based financial analytics platform focused on stock market trend analysis, portfolio insights, and predictive analytics.
 
@@ -108,7 +108,7 @@ Led a 7-member team in developing a machine learning-based financial analytics p
 **Skills:** Financial Analytics, Machine Learning, FastAPI, Data Preprocessing, Portfolio Analytics, Python
 
 
-### 5. ### Quantum Operational Intelligence System (QOPS) ⚛️
+### 5. Quantum Operational Intelligence System (QOPS) ⚛️
 
 Collaborated in a 6-member team project during the AP Amaravati Quantum Valley Hackathon to develop a monitoring and analytics platform for IBM Quantum job execution workflows.
 
@@ -127,7 +127,7 @@ Collaborated in a 6-member team project during the AP Amaravati Quantum Valley H
 
 ## 💼 Professional Experience
 
-### **Machine Learning Engineer Intern – Adhoc Network Tech Company
+### **Machine Learning Engineer Intern** – Adhoc Network Tech Company
 
 *December 2025 – March 2026 (4 months) | Visakhapatnam*
 
