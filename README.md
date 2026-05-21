@@ -206,6 +206,7 @@ GPA: 9.0/10
 
 ## 📞 Connect With Me
 
+- **Portfolio:** [https://ajit-portfolio-nine.vercel.app]
 - **LinkedIn:** [ajit-mahapatro-6512412ba](https://www.linkedin.com/in/ajit-mahapatro-6512412ba/)
 - **Email:** ajitmahapatro12@gmail.com
 - **Phone:** 9182490407
