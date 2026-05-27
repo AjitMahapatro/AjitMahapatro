@@ -32,7 +32,28 @@ Aspiring Data Analyst and Data Science graduate passionate about transforming ra
 
 ## 📊 Featured Projects
 
-### 1. Employee Attrition Risk & Retention Analytics 💼
+### 1. QuantAlpha – Financial Analytics & Market Prediction Platform 📈
+
+Led a 7-member team in developing QuantAlpha, a machine learning-driven financial analytics platform focused on stock market trend analysis, portfolio insights, and predictive modeling.
+
+* Built data preprocessing and feature engineering workflows using Python, Pandas, and Scikit-Learn for market signal generation  
+* Contributed to FastAPI-based REST APIs for delivering predictive analytics and portfolio insights  
+* Developed analytics modules for portfolio backtesting, volatility tracking, Sharpe ratio monitoring, and multi-horizon research signals  
+* Worked on handling practical deployment challenges including API rate limits, unstable free-market data sources, and dashboard reliability  
+* Collaborated on frontend-backend integration and deployment workflows for interactive analytics dashboards
+
+**Key Features:**
+* Portfolio performance tracking  
+* Risk and volatility analytics  
+* Sharpe ratio monitoring  
+* Market trend visualization  
+* Research signal dashboards
+
+**Tech Stack:**
+Python • FastAPI • Scikit-Learn • XGBoost • React • Financial Analytics • REST APIs
+
+
+### 2. Employee Attrition Risk & Retention Analytics 💼
 
 Developed an end-to-end HR analytics solution combining machine learning predictions with an interactive Power BI dashboard to analyze employee attrition patterns and retention risks.
 
@@ -56,18 +77,6 @@ Developed an end-to-end HR analytics solution combining machine learning predict
 **Tech Stack:** Python, SQL, Power BI, Scikit-Learn, Pandas, Random Forest
 
 
-### 2. Airline Delay Pattern Discovery ✈️
-
-Collaborated in a team-based analytics project focused on identifying patterns and operational factors contributing to airline delays.
-
-* Performed data preprocessing and cleaning on large-scale flight operations datasets using Python and Pandas
-* Conducted exploratory data analysis (EDA) to identify delay trends across airlines, airports, and routes
-* Created visualizations to analyze delay distributions, operational bottlenecks, and traffic patterns
-* Contributed to association rule mining analysis using FP-Growth to uncover hidden delay relationships
-
-**Skills:** Data Preprocessing, EDA, Data Visualization, Python, Pandas, Statistical Analysis
-
-
 ### 3. Adidas Retail Strategy & Sales Analytics Dashboard 👟📊
 
 Developed an interactive Power BI analytics dashboard using the Adidas US Retail dataset to analyze sales performance, regional trends, and product profitability.
@@ -87,28 +96,7 @@ Developed an interactive Power BI analytics dashboard using the Adidas US Retail
 **Skills:** Power BI, DAX, Power Query, KPI Analysis, Data Visualization, Business Intelligence
 
 
-### 4. QuantAlpha – Financial Analytics & Market Prediction Platform 📈
-
-Led a 7-member team in developing a machine learning-based financial analytics platform focused on stock market trend analysis, portfolio insights, and predictive analytics.
-
-* Contributed to stock market data preprocessing, feature engineering, and machine learning workflows using Python and Scikit-Learn
-* Worked on FastAPI integration for serving prediction results and analytics data through REST APIs
-* Developed analytics components for portfolio backtesting, risk analysis, and multi-horizon research signal visualization
-* Assisted in handling real-world challenges such as API rate limits, unstable free-market data sources, and dashboard reliability
-* Collaborated on deployment workflows and frontend-backend integration for interactive analytics dashboards
-
-**Key Features:**
-
-* Portfolio performance tracking
-* Risk and volatility analytics
-* Sharpe ratio monitoring
-* Market trend visualization
-* Research signal dashboards
-
-**Skills:** Financial Analytics, Machine Learning, FastAPI, Data Preprocessing, Portfolio Analytics, Python
-
-
-### 5. Quantum Operational Intelligence System (QOIS) ⚛️
+### 4. Quantum Operational Intelligence System (QOIS) ⚛️
 
 Collaborated in a 6-member team project during the AP Amaravati Quantum Valley Hackathon to develop a monitoring and analytics platform for IBM Quantum job execution workflows.
 
@@ -120,6 +108,19 @@ Collaborated in a 6-member team project during the AP Amaravati Quantum Valley H
 🏆 Achieved 2nd Prize in the AP Amaravati Quantum Valley Hackathon under the Quantum Job Tracker domain.
 
 **Skills:** Qiskit, Analytics Dashboards, IBM Quantum Fundamentals, REST API Concepts, Team Collaboration
+
+
+
+### 5. Airline Delay Pattern Discovery ✈️
+
+Collaborated in a team-based analytics project focused on identifying patterns and operational factors contributing to airline delays.
+
+* Performed data preprocessing and cleaning on large-scale flight operations datasets using Python and Pandas
+* Conducted exploratory data analysis (EDA) to identify delay trends across airlines, airports, and routes
+* Created visualizations to analyze delay distributions, operational bottlenecks, and traffic patterns
+* Contributed to association rule mining analysis using FP-Growth to uncover hidden delay relationships
+
+**Skills:** Data Preprocessing, EDA, Data Visualization, Python, Pandas, Statistical Analysis
 
 
 ---
