@@ -22,7 +22,7 @@ Aspiring Data Analyst and Data Science graduate passionate about transforming ra
 ## 🏆 Key Achievements
 
 - 🥈 **2nd Prize** – AP Amravati Quantum Valley Hackathon (Quantum-enhanced analytics project)
-- 🥈 **2nd Prize** – Inter-Branch Technical Presentation Competition (34 competing campuses)
+- 🥈 **2nd Prize** – Inter-Branch Technical PowerPoint Presentation Competition (34 competing campuses)
 - 🥈 **2nd Prize** – All-Branches Online JAM Competition
 - 🏅 **10th Prize (3rd Position)** – Inter-College SQL Query Quest
 
@@ -216,10 +216,3 @@ GPA: 9.0/10
 
 ---
 
-
-## 🎯 Actively Seeking
-
-Entry-level and internship opportunities in **Data Analysis**, **Data Science**, and **Business Intelligence** roles where I can leverage Python, SQL, and analytics expertise to deliver data-driven insights and drive business growth.
-
-
----
