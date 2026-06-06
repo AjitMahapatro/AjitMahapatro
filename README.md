@@ -50,7 +50,7 @@ Led a 7-member team in developing QuantAlpha, a machine learning-driven financia
 * Research signal dashboards
 
 **Tech Stack:**
-Python • FastAPI • Scikit-Learn • XGBoost • React • Financial Analytics • REST APIs
+Python • FastAPI • Scikit-Learn • XGBoost • React • Financial Analytics
 
 
 ### 2. Quantum Operational Intelligence System (QOIS) ⚛️
