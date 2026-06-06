@@ -1,8 +1,12 @@
 # Ajit Mahapatro
 
-## 📊 Data Analyst & Data Scientist
-Aspiring Data Analyst and Data Science graduate passionate about transforming raw data into actionable business insights. Skilled in exploratory data analysis, machine learning, and business intelligence tools. Experienced in building predictive models, designing analytics dashboards, and identifying data-driven solutions to drive measurable business impact.
+## 💻 Software Engineer | Data Science Student | Machine Learning Enthusiast
 
+Data Science undergraduate with experience building full-stack applications, REST APIs, machine learning systems, and analytics platforms. Passionate about software engineering, AI-powered products, and scalable backend development.
+
+Skilled in Python, Java, SQL, FastAPI, REST APIs, Object-Oriented Programming, and Machine Learning. Experienced in developing end-to-end projects involving backend services, data pipelines, predictive models, and interactive web applications.
+
+Currently focused on software engineering, AI systems, and building real-world products that combine machine learning with modern application development.
 
 ---
 
@@ -10,11 +14,12 @@ Aspiring Data Analyst and Data Science graduate passionate about transforming ra
 ## 🛠️ Technical Skills
 
 **Programming & Databases:** Python • SQL • Java • C  
-**Data Analysis & Visualization:** Power BI • Tableau • MS Excel • Pandas • NumPy • Matplotlib
-**Machine Learning:** Scikit-Learn • XGBoost • Supervised Learning • Model Evaluation • Predictive Modeling 
-**Core Analytics Skills:** Exploratory Data Analysis (EDA) • Feature Engineering • Data Visualization • Business Intelligence  
-**Frameworks & Tools:** FastAPI • Jupyter Notebook
-
+**Software Engineering:** Object-Oriented Programming (OOP) • REST APIs • Software Development Life Cycle (SDLC) • Git • GitHub
+**Backend Development:** FastAPI • Express.js • API Development
+**Databases:** SQL • MongoDB
+**Machine Learning:** Scikit-Learn • XGBoost • Predictive Modeling • Feature Engineering
+**Data Analysis & Visualization:** Pandas • NumPy • Power BI • Tableau • MS Excel**Frameworks & Tools:** FastAPI • Jupyter Notebook
+**Tools:** Jupyter Notebook • VS Code
 
 ---
 
@@ -34,37 +39,28 @@ Aspiring Data Analyst and Data Science graduate passionate about transforming ra
 
 ### 1. QuantAlpha – Financial Analytics & Market Prediction Platform 📈
 
-Led a 7-member team in developing QuantAlpha, a machine learning-driven financial analytics platform focused on stock market trend analysis, portfolio insights, and predictive modeling.
+Led a 7-member team in developing QuantAlpha, a full-stack financial analytics platform that combines machine learning, backend services, and interactive dashboards for stock market analysis and portfolio intelligence.
 
-* Built data preprocessing and feature engineering workflows using Python, Pandas, and Scikit-Learn for market signal generation  
-* Contributed to FastAPI-based REST APIs for delivering predictive analytics and portfolio insights  
-* Developed analytics modules for portfolio backtesting, volatility tracking, Sharpe ratio monitoring, and multi-horizon research signals  
-* Worked on handling practical deployment challenges including API rate limits, unstable free-market data sources, and dashboard reliability  
-* Collaborated on frontend-backend integration and deployment workflows for interactive analytics dashboards
-
-**Key Features:**
-* Portfolio performance tracking  
-* Risk and volatility analytics  
-* Sharpe ratio monitoring  
-* Market trend visualization  
-* Research signal dashboards
-
-**Tech Stack:**
-Python • FastAPI • Scikit-Learn • XGBoost • React • Financial Analytics
+• Developed data processing and feature engineering pipelines using Python, Pandas, and Scikit-Learn for financial signal generation.
+• Built and integrated FastAPI-based REST APIs to deliver market analytics, portfolio insights, and predictive outputs to frontend applications.
+• Designed backend modules for portfolio backtesting, volatility analysis, Sharpe ratio calculation, and multi-horizon research workflows.
+• Collaborated on frontend-backend integration, API consumption, and deployment workflows to ensure reliable application performance.
+• Addressed real-world engineering challenges including API rate limiting, unreliable third-party data sources, and application stability.
+• Worked within an agile team environment to design, develop, test, and iterate product features.
+Tech Stack: Python • FastAPI • React • Scikit-Learn • XGBoost • SQL • Financial Analytics
 
 
-### 2. Quantum Operational Intelligence System (QOIS) ⚛️
+### Quantum Operational Intelligence System (QOIS)
 
-Collaborated in a 6-member team project during the AP Amaravati Quantum Valley Hackathon to develop a monitoring and analytics platform for IBM Quantum job execution workflows.
+Developed a full-stack monitoring and operational intelligence platform during the AP Amaravati Quantum Valley Hackathon to track IBM Quantum job execution, backend utilization, and system performance.
 
-* Assisted in building analytics and monitoring components for tracking quantum job execution and backend activity
-* Worked with Qiskit and IBM Quantum APIs as part of the quantum execution workflow
-* Contributed to dashboard visualization concepts and telemetry-based monitoring features
-* Participated in designing a system for monitoring queue activity, backend status, and execution insights
-
-🏆 Achieved 2nd Prize in the AP Amaravati Quantum Valley Hackathon under the Quantum Job Tracker domain.
-
-**Skills:** Qiskit, Analytics Dashboards, IBM Quantum Fundamentals, REST API Concepts, Team Collaboration
+• Collaborated in a 6-member team to design and develop a platform for monitoring quantum workload execution and backend activity.
+• Integrated IBM Quantum and Qiskit APIs to collect execution metadata, backend status information, and job lifecycle events.
+• Contributed to backend workflows for processing telemetry data and generating operational insights.
+• Designed monitoring and visualization features for queue tracking, backend availability, execution status, and performance analytics.
+• Participated in system architecture discussions, API integration, debugging, testing, and feature development.
+• Achieved 2nd Prize at the AP Amaravati Quantum Valley Hackathon under the Quantum Job Tracker domain.
+Tech Stack: Python • Qiskit • IBM Quantum APIs • REST APIs • Dashboard Development • System Monitoring
 
 
 ### 3. Employee Attrition Risk & Retention Analytics 💼
@@ -208,7 +204,6 @@ GPA: 9.0/10
 
 ## 📞 Connect With Me
 
-- **Portfolio:** [https://ajit-portfolio-nine.vercel.app]
 - **LinkedIn:** [ajit-mahapatro-6512412ba](https://www.linkedin.com/in/ajit-mahapatro-6512412ba/)
 - **Email:** ajitmahapatro12@gmail.com
 - **Phone:** 9182490407
