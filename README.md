@@ -50,7 +50,7 @@ Led a 7-member team in developing QuantAlpha, a full-stack financial analytics p
 Tech Stack: Python • FastAPI • React • Scikit-Learn • XGBoost • SQL • Financial Analytics
 
 
-### Quantum Operational Intelligence System (QOIS)
+### 2. Quantum Operational Intelligence System (QOIS)
 
 Developed a full-stack monitoring and operational intelligence platform during the AP Amaravati Quantum Valley Hackathon to track IBM Quantum job execution, backend utilization, and system performance.
 
