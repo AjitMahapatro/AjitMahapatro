@@ -53,7 +53,21 @@ Led a 7-member team in developing QuantAlpha, a machine learning-driven financia
 Python • FastAPI • Scikit-Learn • XGBoost • React • Financial Analytics • REST APIs
 
 
-### 2. Employee Attrition Risk & Retention Analytics 💼
+### 2. Quantum Operational Intelligence System (QOIS) ⚛️
+
+Collaborated in a 6-member team project during the AP Amaravati Quantum Valley Hackathon to develop a monitoring and analytics platform for IBM Quantum job execution workflows.
+
+* Assisted in building analytics and monitoring components for tracking quantum job execution and backend activity
+* Worked with Qiskit and IBM Quantum APIs as part of the quantum execution workflow
+* Contributed to dashboard visualization concepts and telemetry-based monitoring features
+* Participated in designing a system for monitoring queue activity, backend status, and execution insights
+
+🏆 Achieved 2nd Prize in the AP Amaravati Quantum Valley Hackathon under the Quantum Job Tracker domain.
+
+**Skills:** Qiskit, Analytics Dashboards, IBM Quantum Fundamentals, REST API Concepts, Team Collaboration
+
+
+### 3. Employee Attrition Risk & Retention Analytics 💼
 
 Developed an end-to-end HR analytics solution combining machine learning predictions with an interactive Power BI dashboard to analyze employee attrition patterns and retention risks.
 
@@ -77,7 +91,7 @@ Developed an end-to-end HR analytics solution combining machine learning predict
 **Tech Stack:** Python, SQL, Power BI, Scikit-Learn, Pandas, Random Forest
 
 
-### 3. Adidas Retail Strategy & Sales Analytics Dashboard 👟📊
+### 4. Adidas Retail Strategy & Sales Analytics Dashboard 👟📊
 
 Developed an interactive Power BI analytics dashboard using the Adidas US Retail dataset to analyze sales performance, regional trends, and product profitability.
 
@@ -95,19 +109,6 @@ Developed an interactive Power BI analytics dashboard using the Adidas US Retail
 
 **Skills:** Power BI, DAX, Power Query, KPI Analysis, Data Visualization, Business Intelligence
 
-
-### 4. Quantum Operational Intelligence System (QOIS) ⚛️
-
-Collaborated in a 6-member team project during the AP Amaravati Quantum Valley Hackathon to develop a monitoring and analytics platform for IBM Quantum job execution workflows.
-
-* Assisted in building analytics and monitoring components for tracking quantum job execution and backend activity
-* Worked with Qiskit and IBM Quantum APIs as part of the quantum execution workflow
-* Contributed to dashboard visualization concepts and telemetry-based monitoring features
-* Participated in designing a system for monitoring queue activity, backend status, and execution insights
-
-🏆 Achieved 2nd Prize in the AP Amaravati Quantum Valley Hackathon under the Quantum Job Tracker domain.
-
-**Skills:** Qiskit, Analytics Dashboards, IBM Quantum Fundamentals, REST API Concepts, Team Collaboration
 
 
 
