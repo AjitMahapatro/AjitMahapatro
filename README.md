@@ -1,6 +1,6 @@
 # Ajit Mahapatro
 
-##Data Science Student | Machine Learning Enthusiast
+## Backend Engineer & Data Scientist | Python • FastAPI • SQL • Power BI | Runner up @ AQVH
 
 Data Science undergraduate with experience building full-stack applications, REST APIs, machine learning systems, and analytics platforms. Passionate about software engineering, AI-powered products, and scalable backend development.
 
