@@ -1,214 +1,70 @@
-# Ajit Mahapatro
+# Hi, I'm Ajit Mahapatro 👋
+### Data Scientist & Analytics Engineer | Python • SQL • Power BI • Quality Data Systems
 
-## Backend Engineer & Data Scientist | Python • FastAPI • SQL • Power BI | Runner up @ AQVH
+Data Science undergraduate with a proven technical foundation in engineering high-scale data pipelines, custom predictive architectures, and interactive compliance reporting suites. Experienced in structural data validation, large-scale data cleansing, and root-cause analysis across complex business frameworks. 
 
-Data Science undergraduate with experience building full-stack applications, REST APIs, machine learning systems, and analytics platforms. Passionate about software engineering, AI-powered products, and scalable backend development.
-
-Skilled in Python, Java, SQL, FastAPI, REST APIs, Object-Oriented Programming, and Machine Learning. Experienced in developing end-to-end projects involving backend services, data pipelines, predictive models, and interactive web applications.
-
-Currently focused on software engineering, AI systems, and building real-world products that combine machine learning with modern application development.
+Passionate about ensuring absolute data integrity, building robust analytical backends, and translating complex unstructured datasets into boardroom-ready strategic insights.
 
 ---
 
+## 🛠️ Technical Skillset
 
-## 🛠️ Technical Skills
-
-**Programming & Databases:** Python • SQL • Java • C  
-**Software Engineering:** Object-Oriented Programming (OOP) • REST APIs • Software Development Life Cycle (SDLC) • Git • GitHub
-**Backend Development:** FastAPI • Express.js • API Development
-**Databases:** SQL • MongoDB
-**Machine Learning:** Scikit-Learn • XGBoost • Predictive Modeling • Feature Engineering
-**Data Analysis & Visualization:** Pandas • NumPy • Power BI • Tableau • MS Excel**Frameworks & Tools:** FastAPI • Jupyter Notebook
-**Tools:** Jupyter Notebook • VS Code
+* **Languages & Processing:** Python (Pandas, NumPy, Seaborn, Matplotlib), SQL (CTEs, Window Functions, Joins)
+* **Business Intelligence & Visualization:** Microsoft Power BI (Advanced DAX, Power Query), Tableau, MS Excel (Advanced Analytics)
+* **System Analytics & Data Quality:** Structural Data Wrangling, Advanced Data Cleansing, Feature Engineering, Exploratory Data Analysis (EDA)
+* **Statistical Analysis & Experimentation:** Descriptive Statistics, Correlation & Trend Analysis, Hypothesis Testing, A/B Testing
+* **Deployment & Architecture:** FastAPI, REST APIs, JSON Data Parsing, Git & Version Control
 
 ---
-
 
 ## 🏆 Key Achievements
 
-- 🥈 **2nd Prize** – AP Amravati Quantum Valley Hackathon (Quantum-enhanced analytics project)
-- 🥈 **2nd Prize** – Inter-Branch Technical PowerPoint Presentation Competition (34 competing campuses)
-- 🥈 **2nd Prize** – All-Branches Online JAM Competition
-- 🏅 **10th Prize (3rd Position)** – Inter-College SQL Query Quest
-
+* 🥈 **2nd Prize (Runner-Up)** – AP Amaravati Quantum Valley Hackathon (Selected out of 12 national finalist teams; engineered a functional hybrid optimization prototype evaluated directly by deep-tech executives)
+* 🏅 **10th Rank (3rd Prize Category)** – Inter-College SQL Query Quest Challenge (Cleared multi-stage database elimination rounds, including supervised lab live-query writing and a technical interview panel across 1,500+ students)
+* 🥈 **2nd Prize** – Inter-Branch Technical PowerPoint Presentation Competition (Competing against 34 regional campuses)
 
 ---
 
-
-## 📊 Featured Projects
+## 📊 Featured Data Engineering & Analytics Projects
 
 ### 1. QuantAlpha – Financial Analytics & Market Prediction Platform 📈
+Led a 7-member engineering team to develop a production-ready quantitative research platform that automates market data ingestion and time-series risk metrics.
+* **Engineered a 2,776-line backend architecture** utilizing Python, Pandas, and Scikit-Learn to process large-scale historical market equities and macroeconomic indicators via external API frameworks.
+* Built and optimized FastAPI-based REST APIs to seamlessly deliver analytical computations including Value at Risk (VaR), CVaR, and Sharpe Ratios.
+* Resolved real-world data infrastructure challenges including rigid API rate limits, unstable public endpoints, and strict data-mapping validation routines.
+* *Tech Stack:* Python, FastAPI, SQL, XGBoost, Scikit-Learn, Pandas, Time-Series Analytics
 
-Led a 7-member team in developing QuantAlpha, a full-stack financial analytics platform that combines machine learning, backend services, and interactive dashboards for stock market analysis and portfolio intelligence.
+### 2. Employee Attrition Risk & Workforce Compliance Analytics 💼
+Developed an end-to-end predictive and diagnostic decision-support system to isolate corporate operational exposure risks.
+* Performed deep exploratory data analysis (EDA) and structural data wrangling on messy workforce tracking datasets using Python and SQL.
+* Trained and evaluated an optimized Random Forest classification model to flag high-risk employee segments.
+* **Designed an interactive multi-page Power BI dashboard** utilizing advanced DAX formulas and Power Query parameters to execute root-cause analysis on workforce datasets.
+* *Business Impact:* Isolated **$11.85M** in potential operational exposure risk and projected targeted retention savings worth **$474K**.
+* *Tech Stack:* Power BI, DAX, Power Query, Python, SQL, Scikit-Learn, Data Quality Mapping
 
-• Developed data processing and feature engineering pipelines using Python, Pandas, and Scikit-Learn for financial signal generation.
-• Built and integrated FastAPI-based REST APIs to deliver market analytics, portfolio insights, and predictive outputs to frontend applications.
-• Designed backend modules for portfolio backtesting, volatility analysis, Sharpe ratio calculation, and multi-horizon research workflows.
-• Collaborated on frontend-backend integration, API consumption, and deployment workflows to ensure reliable application performance.
-• Addressed real-world engineering challenges including API rate limiting, unreliable third-party data sources, and application stability.
-• Worked within an agile team environment to design, develop, test, and iterate product features.
-Tech Stack: Python • FastAPI • React • Scikit-Learn • XGBoost • SQL • Financial Analytics
-
-
-### 2. Quantum Operational Intelligence System (QOIS)
-
-Developed a full-stack monitoring and operational intelligence platform during the AP Amaravati Quantum Valley Hackathon to track IBM Quantum job execution, backend utilization, and system performance.
-
-• Collaborated in a 6-member team to design and develop a platform for monitoring quantum workload execution and backend activity.
-• Integrated IBM Quantum and Qiskit APIs to collect execution metadata, backend status information, and job lifecycle events.
-• Contributed to backend workflows for processing telemetry data and generating operational insights.
-• Designed monitoring and visualization features for queue tracking, backend availability, execution status, and performance analytics.
-• Participated in system architecture discussions, API integration, debugging, testing, and feature development.
-• Achieved 2nd Prize at the AP Amaravati Quantum Valley Hackathon under the Quantum Job Tracker domain.
-Tech Stack: Python • Qiskit • IBM Quantum APIs • REST APIs • Dashboard Development • System Monitoring
-
-
-### 3. Employee Attrition Risk & Retention Analytics 💼
-
-Developed an end-to-end HR analytics solution combining machine learning predictions with an interactive Power BI dashboard to analyze employee attrition patterns and retention risks.
-
-* Performed exploratory data analysis and feature engineering on employee workforce data using Python, Pandas, and SQL
-* Built a Random Forest classification model to predict employee attrition risk
-* Designed a multi-page Power BI dashboard featuring:
-  * attrition trend analysis
-  * workforce demographics
-  * predictive risk segmentation
-  * root cause analysis
-  * KPI tracking
-* Created an application-style dashboard experience using custom Power BI UI components, tooltips, and interactive visual storytelling
-* Identified high-risk employee segments and simulated potential retention savings opportunities
-
-**Business Insights Generated:**
-
-* Estimated $11.85M in potential attrition-related salary impact
-* Identified high-risk workforce segments through predictive risk scoring
-* Projected retention improvement opportunities worth approximately $474K
-
-**Tech Stack:** Python, SQL, Power BI, Scikit-Learn, Pandas, Random Forest
-
-
-### 4. Adidas Retail Strategy & Sales Analytics Dashboard 👟📊
-
-Developed an interactive Power BI analytics dashboard using the Adidas US Retail dataset to analyze sales performance, regional trends, and product profitability.
-
-* Performed data cleaning and transformation directly in Power BI using Power Query
-* Built KPI dashboards to track revenue, operating profit, operating margin, and units sold
-* Created DAX measures for profit analysis, product performance tracking, and comparative reporting
-* Designed interactive visualizations including decomposition trees, bubble maps, and item-level sales analysis
-* Developed executive-style dashboards focused on business storytelling and decision support
-
-**Business Insights Generated:**
-
-* Identified high-performing regions and retailer segments driving revenue growth
-* Analyzed product-level profitability and operating margin trends
-* Visualized sales distribution patterns across multiple geographic regions
-
-**Skills:** Power BI, DAX, Power Query, KPI Analysis, Data Visualization, Business Intelligence
-
-
-
-
-### 5. Airline Delay Pattern Discovery ✈️
-
-Collaborated in a team-based analytics project focused on identifying patterns and operational factors contributing to airline delays.
-
-* Performed data preprocessing and cleaning on large-scale flight operations datasets using Python and Pandas
-* Conducted exploratory data analysis (EDA) to identify delay trends across airlines, airports, and routes
-* Created visualizations to analyze delay distributions, operational bottlenecks, and traffic patterns
-* Contributed to association rule mining analysis using FP-Growth to uncover hidden delay relationships
-
-**Skills:** Data Preprocessing, EDA, Data Visualization, Python, Pandas, Statistical Analysis
-
+### 3. Adidas US Retail Performance Diagnosis Dashboard 👟📊
+Engineered a high-fidelity business intelligence suite utilizing large-scale retail distribution sets to track sales performance and profit velocity.
+* Executed advanced data cleaning, data profiling, and structural schema transformation directly inside Power Query.
+* Developed complex DAX measures to calculate regional profit margins, operating metrics, and comparative sector performance tracking.
+* Designed advanced analytical visual structures, including decomposition trees and geographical bubble maps, to support strategic decision-making.
+* *Business Impact:* Provided deep-dive visibility into **$899.9M** in retail revenue trends to identify underperforming sectors and optimize supply chains.
+* *Tech Stack:* Power BI, DAX, Power Query, KPI Analytics, Business Intelligence Storytelling
 
 ---
 
+## 💼 Corporate Internships & Leadership
 
-## 💼 Professional Experience
-
-### **Machine Learning Engineer Intern** – Adhoc Network Tech Company
-
-*December 2025 – March 2026 (4 months) | Visakhapatnam*
-
-* Collaborated within a 7-member team on machine learning and analytics-based projects
-* Performed exploratory data analysis (EDA), data preprocessing, feature engineering, and model evaluation using Python and Pandas
-* Contributed to the development of predictive models using Scikit-Learn and XGBoost
-* Worked on FastAPI integration for deploying machine learning prediction workflows
-* Assisted in building data transformation pipelines and analytics dashboards for project reporting
-
-
-### **Group Discussion Mentor** – Aditya Degree College
-
-*August 2025 - February 2026 (7 months) | Visakhapatnam*
-
-* Coached junior students in analytical thinking, communication, and structured problem-solving
-* Provided constructive feedback on data-driven decision-making and presentation skills
-
-### **Power BI Analyst Intern** – ULEARN
-
-*May 2025 - June 2025 (2 months) | India*
-
-* Developed proficiency in DAX formulas and Power Query data transformations
-* Created end-to-end analytics dashboards: logistics tracking dashboard, airline delay analysis, Adidas sales performance metrics
-* Designed interactive visualizations to drive business stakeholder insights
-
+* **Machine Learning Intern** | *Adhoc Network Tech Company* (Dec 2025 – Mar 2026)
+    * Coordinated technical analytics workflows as Team Lead for 7 engineers. Implemented code data validation routines to optimize pipeline execution speeds across deliverables.
+* **Power BI Analyst Intern** | *ULEARN* (May 2025 – Jun 2025)
+    * Audited and verified **$33M** in complex multi-sector distribution data, utilizing custom Power Query transformations to ensure absolute data accuracy across enterprise visualization dashboards.
+* **Group Discussion Mentor** | *Aditya Degree College* (Aug 2025 – Feb 2026)
+    * Coached over 100+ junior students in structured problem-solving, analytical thinking, and data-driven presentation methodologies.
 
 ---
 
-
-### 📜 Certifications
-
-* IBM Python Data Science – IBM
-* IBM Data Science Fundamentals – IBM
-* SQL for Data Science – edX
-* Introduction to Generative AI – edX
-* Advanced Tableau Analytics – Coursera
-* Essentials of Generative AI – Microsoft & Government of India
-* AI & Machine Learning Internship Program – ULEARN
-* Python Essentials – Cisco
-
-
----
-
-
-### 🎓 Education
-
-**Bachelor of Science (B.Sc.) in Data Science**
-Aditya Degree College, Visakhapatnam
-*Aug 2023 – Present*
-GPA: 8.5/10
-
-**Senior Secondary Education (Class XII)**
-MVR Junior College, Visakhapatnam
-*Aug 2021 – Mar 2023*
-GPA: 9.7/10
-
-**Secondary Education (Class X)**
-SLN Public School, Odisha
-*May 2020 – May 2021*
-GPA: 9.0/10
-
-
----
-
-
-### 🌐 Languages
-
-* Hindi — Native / Bilingual Proficiency
-* Odiya — Native / Bilingual Speaking Proficiency
-* English — Professional Working Proficiency
-* Telugu — Elementary Proficiency
-
-
----
-
-
-## 📞 Connect With Me
-
-- **LinkedIn:** [ajit-mahapatro-6512412ba](https://www.linkedin.com/in/ajit-mahapatro-6512412ba/)
-- **Email:** ajitmahapatro12@gmail.com
-- **Phone:** 9182490407
-- **Location:** Visakhapatnam, Andhra Pradesh
-
-
----
-
+## 📞 Connect with Me
+* **LinkedIn:** https://www.linkedin.com/in/ajit-mahapatro-6512412ba/
+* **Portfolio:** https://ajit-portfolio-nine.vercel.app/
+* **Email:** ajitmahapatro12@gmail.com
+* **Location:** Visakhapatnam, Andhra Pradesh, India
