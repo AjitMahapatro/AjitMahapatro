@@ -1,5 +1,5 @@
-Hi, I'm Ajit Mahapatro 👋
-Data Scientist & Analytics Engineer | Python • SQL • Power BI • Quality Data Systems
+** Hi, I'm Ajit Mahapatro 👋** 
+** Data Scientist & Analytics Engineer | Python • SQL • Power BI • Quality Data Systems**
 
 Data Science undergraduate with a proven technical foundation in engineering high-scale data pipelines, custom predictive architectures, and interactive compliance reporting suites. Experienced in structural data validation, large-scale data cleansing, and root-cause analysis across complex business frameworks.
 
