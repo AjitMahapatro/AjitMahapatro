@@ -10,7 +10,6 @@ Passionate about ensuring absolute data integrity, building robust analytical ba
 * **Business Intelligence & Visualization:** Microsoft Power BI (Advanced DAX, Power Query), Tableau, MS Excel (Advanced Analytics)
 * **System Analytics & Data Quality:** Structural Data Wrangling, Advanced Data Cleansing, Feature Engineering, Exploratory Data Analysis (EDA)
 * **Statistical Analysis & Experimentation:** Descriptive Statistics, Correlation & Trend Analysis, Hypothesis Testing, A/B Testing
-* **Deployment & Frameworks:** FastAPI, REST APIs, Pydantic (Data Contracts), BeautifulSoup4, Git & Version Control
 
 🏆 Key Achievements
 * 🥈 **2nd Prize (Runner-Up) – AP Amaravati Quantum Valley Hackathon 2025** | Selected out of 12 national finalist teams; engineered a functional hybrid optimization prototype evaluated directly by deep-tech executives.
