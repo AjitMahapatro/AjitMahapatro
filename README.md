@@ -1,5 +1,5 @@
 # Hi, I'm Ajit Mahapatro 👋
-### Data Scientist & Analytics Engineer | Python • SQL • Power BI • Tableau
+### Data Analyst & Data Scientist | Python • SQL • Power BI • Tableau
 
 Data Science undergraduate with a proven technical foundation in engineering high-scale data pipelines, custom predictive architectures, and real-time infrastructure operations command terminals. Experienced in structural database modeling, large-scale time-series data cleansing, and mapping low-level technical anomalies to high-level corporate risk metrics.
 
